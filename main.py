@@ -5,7 +5,7 @@ import requests
 from io import BytesIO
 
 # Replace 'YOUR_API_KEY' with your actual DeepAI API key
-API_KEY = 'quickstart-QUdJIGlzIGNvbWluZy4uLi4K'
+API_KEY = 'your_api_key'
 
 
 def generate_image_from_text(text, options):
